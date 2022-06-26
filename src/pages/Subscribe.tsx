@@ -36,7 +36,7 @@ export function Subscribe(){
                         Contrua <strong className="text-blue-500"> aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong>
                     </h1>
                     <p className="mt-4 text-gray-200 leading-relaxed">
-                        qualquer coisa awuqwoa sajdas
+                    Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.
                     </p>
                 </div>
 
